@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54dd28a3-850e-45ae-9455-366874f6c998" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u4M2cu3za335WLwhIGx0Wu6iAo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dental_website\asset" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dental_website\asset\js" />
+      <recent name="C:\xampp\htdocs\dental_website\asset\css" />
+      <recent name="C:\xampp\htdocs\dental_website\asset" />
+      <recent name="C:\xampp\htdocs\dental_website\asset\images" />
+      <recent name="C:\xampp\htdocs\dental_website" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54dd28a3-850e-45ae-9455-366874f6c998" name="Default Changelist" comment="" />
+      <created>1623920201564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623920201564</updated>
+      <workItem from="1623920202731" duration="13521000" />
+      <workItem from="1624091306515" duration="11777000" />
+      <workItem from="1624179019740" duration="14461000" />
+      <workItem from="1624257107945" duration="19337000" />
+      <workItem from="1624306388293" duration="592000" />
+      <workItem from="1624438552893" duration="16360000" />
+      <workItem from="1624522745579" duration="12253000" />
+      <workItem from="1624540102811" duration="158000" />
+      <workItem from="1624540285827" duration="249000" />
+      <workItem from="1624653695463" duration="1921000" />
+      <workItem from="1624696168964" duration="6136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623925291251">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1623925291251" />
+  </component>
+</project>
