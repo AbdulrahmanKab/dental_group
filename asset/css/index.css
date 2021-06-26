@@ -342,6 +342,12 @@ footer{
 ::placeholder{
     font-size: 0.8em
 }
+.social-icon-general{
+    background-color: #18afd3!important;
+    margin-right: 1em;
+    margin-top: 2em;
+    color: #ffffff;
+}
 @media screen and (max-width: 767px) {
     .service-out{
         margin-top: 3em;
@@ -432,6 +438,11 @@ footer{
         margin-top: 5em!important;
     }
 
+}
+.our-accounts{
+    margin-top: 1em;
+    font-size: 1.1em;
+    font-weight: 600;
 }
 @media screen and (max-width: 420px) {
     .service-button{
