@@ -41,22 +41,7 @@
                     </div>
 
                 </div>
-                <div class="float-end header-icon w-50 header-icon-mobile">
-                    <div class="d-flex flex-row">    <span class="icon">
-                        <span class="fas fa-map-marker-alt"style="font-weight: 200;"></span>
 
-                    </span>
-
-                        <div  class="num-call ">
-                           <div class=" float-end" >
-                             ابجد هوز حطي كلمني صعفص قرشت
-                           </div>
-                        </div>
-
-
-                    </div>
-
-                </div>
             </div>
       </div>
         <div class="row header-content">
@@ -78,7 +63,7 @@
                       <span class="text-white input-label">
                         الاسم
                       </span>
-                      <input placeholder="ادخل اسم الشخص المراد الحجز له" id="email" type="text" class="form-control mt-2">
+                      <input placeholder="ادخل اسم الشخص المراد الحجز له" id="name" type="text" class="form-control mt-2">
                     </label>
                     <label  class="form-group d-flex flex-column mt-2">
                       <span class="text-white input-label">
@@ -214,7 +199,7 @@
             <div class="col-sm-12 row justify-content-center">
                 <div class="col-sm-5 d-flex flex-row"
                      data-aos="fade-left"
-                     data-aos-offset="300"
+
                      data-aos-duration="800"
                 >
                     <div class="box-one-general" style="" >
@@ -223,7 +208,7 @@
                     </div>
                     </div>
 
-                    <div class="row d-flex flex-column" style="background: #F1F3F9; width: 80%">
+                    <div class="row d-flex flex-column pb-5" style="background: #F1F3F9; width: 80%">
                         <span class=" mt-4">
                             <span class="far fa-calendar-alt general-icon"></span>
                         </span>
@@ -237,69 +222,28 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-5 d-flex flex-row detail-box" data-aos="fade-right"
-                     data-aos-offset="300"
-                     data-aos-easing="ease-in-sine"
-                     data-aos-duration="800"
-                >
-                    <div class="box-one-general" style="" >
-                        <div class="right-box-general" style="">
-                            الجدول الزمني للأطباء
-                        </div>
-                    </div>
-                    <div class="row d-flex flex-column" style="background: #F1F3F9; width: 80%">
-                        <div class="col-sm-12 mt-4">
-                            <span class="fas fa-calendar-day general-icon"></span>
-                        </div>
-                        <div class="col-sm-12 mt-5 row mb-5">
-                            <div class="col-sm-12 text-start" style="font-family: Droid-kofi">
-                            الجدول الزمني للإرشاد فقط لمساعدتك في التخطيط لموعدك مع طبيب أو ممرضة مفضلة. لا يضمن التوفر لأن أطبائنا أو ممرضاتنا قد يقومون في بعض الأحيان بواجبات أخرى.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row mt-5">
-            <div class="col-sm-12 row justify-content-center">
-                <div class="col-sm-5 d-flex flex-row "  data-aos="fade-left"
+                <div class="col-sm-5 d-flex flex-row  pb-5"  data-aos="fade-right"
                      data-aos-offset="100"
                      data-aos-duration="800"  >
                     <div class="box-one-general" style="" >
                         <div class="right-box-general" style="">
-                        رقم الطوارىء
+                            رقم الطوارىء
                         </div>
                     </div>
                     <div class="row d-flex flex-column" style="background: #F1F3F9; width: 80%">
                         <div class="col-sm-12 mt-4">
                             <span class="fas fa-heart general-icon heart-icon"></span>
                         </div>
-                            <div class="col-sm-12 text-start sat-to-thurs" style="font-family: Droid-kofi; margin-top: 3em;font-size: 1.2em;text-transform: none;text-decoration: none!important;">
-                                <a class="emergency-num" href="tel:1-800-1234-567" style="text-decoration: none">1-800-1234-567</a>
-                            </div>
+                        <div class="col-sm-12 text-start sat-to-thurs" style="font-family: Droid-kofi; margin-top: 3em;font-size: 1.2em;text-transform: none;text-decoration: none!important;">
+                            <a class="emergency-num" href="tel:1-800-1234-567" style="text-decoration: none">1-800-1234-567</a>
+                        </div>
 
                     </div>
                 </div>
-                <div class="col-sm-5 d-flex flex-row detail-box"  data-aos="fade-right"
-                     data-aos-offset="100"
-                     data-aos-easing="ease-in-sine"
-                     data-aos-duration="800"
-                >
-                    <div class="box-one-general" style="" >
-                        <div class="right-box-general" style="">
-                            المواعيد
-                        </div>
-                    </div>
-                    <div class="row" style="background: #F1F3F9; width: 80%">
-                        <div class="col-sm-12 mt-4">
-                            <span class="fas fa-phone-alt general-icon"></span>
-                        </div>
-                        <div class="col-sm-12 mt-5 row mb-5">
-                            <div class="col-sm-12 text-start" style="font-family: Droid-kofi">الخطوة الأولى نحو حياة صحية هي تحديد موعد. يرجى الاتصال بمكتبنا عبر الهاتف أو ملء استمارة طلب الموعد.</div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
+
     </div>
 </main>
 <footer class="container-fluid" style="background-color: #18afd3">
@@ -345,6 +289,9 @@
     $( function() {
         $( "#datepicker" ).datepicker();
     } );
+    $(".btn-elipse-mobile").click(function (){
+        $("#name").focus();
+    })
 </script>
 </body>
 </html>
