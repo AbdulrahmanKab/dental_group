@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54dd28a3-850e-45ae-9455-366874f6c998" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dental-landing" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +67,7 @@
       <workItem from="1624540285827" duration="249000" />
       <workItem from="1624653695463" duration="1921000" />
       <workItem from="1624696168964" duration="20261000" />
-      <workItem from="1624783156565" duration="279000" />
+      <workItem from="1624783156565" duration="1404000" />
     </task>
     <servers />
   </component>
@@ -80,5 +79,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1623925291251" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1624784577405">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624784577405" />
   </component>
 </project>
